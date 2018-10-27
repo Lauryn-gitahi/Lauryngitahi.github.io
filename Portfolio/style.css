@@ -1,0 +1,22 @@
+body{
+    background-color:blanchedalmond;
+}
+p{
+    color:blue;
+    
+}
+img{
+    height: 50%;
+    width: 50px;
+}
+p{
+    font-weight:bolder;
+    font_style:italic;
+    font-size:150%;
+}
+.hobbies{
+    color: aquamarine;
+}
+#apirations{
+    color: red;
+}
